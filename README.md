@@ -1,16 +1,22 @@
-## Hi there 👋
+# Halo semua! Saya Dias mayri 👋
 
-<!--
-**Diasmyri/Diasmyri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah mahasiswa semester 2 jurusan Teknik Informatika yang sedang mendalami dasar-dasar pemrograman dan pengembangan web. Saat ini saya sedang belajar HTML, CSS, dan JavaScript, dan sedang mencoba membangun berbagai proyek kecil untuk mengasah kemampuan saya.
 
-Here are some ideas to get you started:
+- 🌱 Sedang belajar: HTML, CSS, JavaScript dasar
+- 🎯 Tertarik pada: Web Development, UI/UX Design
+- 📫 Kontak saya: diasmayri15@gmail.com
+- ✨ Fun fact: Saya suka mencoba desain web yang bersih dan simpel!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Teknologi yang Sedang Dipelajari
+
+- HTML & CSS
+- JavaScript (Dasar)
+- PHP (Dasar)
+- Git & GitHub
+- VS Code
+
+## ⚡️ Kontak
+
+📷 [Instagram - @diasmayri](https://instagram.com/diasmayri)
